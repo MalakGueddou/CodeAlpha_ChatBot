@@ -1,0 +1,2 @@
+include: [".htaccess"]
+exclude: ["README.md"]
