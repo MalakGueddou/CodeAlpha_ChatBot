@@ -1,0 +1,304 @@
+{
+  "faqs": [
+    {
+      "question": "comment prendre des notes efficaces",
+      "keywords": ["notes", "prise de notes", "noter", "écrire", "cours", "méthode cornell"],
+      "category": "notes",
+      "answer": "<h3>🎯 Méthodes de Prise de Notes Évoluées</h3><br><strong>1. Méthode Cornell (Recommandée)</strong><br>• <em>Zone principale</em> : Notes détaillées pendant le cours<br>• <em>Colonne de gauche</em> : Questions et mots-clés après le cours<br>• <em>Résumé</em> : Synthèse en bas de page (2-3 phrases)<br><br><strong>2. Mind Mapping Avancé</strong><br>• Idéal pour les relations complexes entre concepts<br>• Stimule la pensée associative et créative<br>• Utilisez des couleurs et images pour améliorer la mémorisation<br><br><strong>Conseils Pro :</strong><br>• Revisez dans les 24h (courbe de l'oubli d'Ebbinghaus)<br>• Utilisez le système de rappel espacé<br>• Transformez vos notes en questions"
+    },
+    {
+      "question": "méthode cornell",
+      "keywords": ["cornell", "système cornell", "colonne", "résumé"],
+      "category": "notes",
+      "answer": "<h3>📝 Méthode Cornell Détaillée</h3><br><strong>Structure de la page :</strong><br>• <em>Zone de notes (70%)</em> : Notes principales pendant le cours<br>• <em>Colonne indices (20%)</em> : Mots-clés et questions après le cours<br>• <em>Résumé (10%)</em> : Essentiel en 2-3 phrases<br><br><strong>Avantages :</strong><br>✅ Facilite la révision active<br>✅ Améliore la compréhension<br>✅ Optimise le temps d'étude<br><br><strong>Étapes d'application :</strong><br>1. Prenez des notes normalement<br>2. Complétez la colonne gauche après le cours<br>3. Rédigez le résumé<br>4. Réviser en cachant la zone de notes"
+    },
+    {
+      "question": "mind mapping",
+      "keywords": ["carte mentale", "carte heuristique", "mind map", "organisation idées"],
+      "category": "notes",
+      "answer": "<h3>🗺️ Mind Mapping Créatif</h3><br><strong>Techniques avancées :</strong><br>• <em>Centre radial</em> : Idée principale au centre<br>• <em>Branches organiques</em> : Courbes naturelles pour les sous-idées<br>• <em>Couleurs stratégiques</em> : Code couleur par thème<br>• <em>Images symboliques</em> : Dessins simples pour mémorisation<br><br><strong>Applications :</strong><br>📚 Résumé de livre/chapitre<br>💡 Brainstorming de projet<br>📊 Planification complexe<br>🔍 Analyse de concepts<br><br><strong>Outils recommandés :</strong><br>• XMind (professionnel)<br>• MindMeister (collaboratif)<br>• SimpleMind (simple)"
+    },
+    {
+      "question": "créer un planning d'étude",
+      "keywords": ["planning", "emploi du temps", "programme", "organiser", "temps"],
+      "category": "planning",
+      "answer": "<h3>📊 Planification Scientifique d'Étude</h3><br><strong>Étapes de Création :</strong><br>1. <em>Audit Temps/Matieres</em> : Analysez votre charge de travail<br>2. <em>Priorisation SMART</em> : Objectifs Spécifiques, Mesurables, Atteignables, Réalistes, Temporels<br>3. <em>Répartition Stratégique</strong> : Alternez matières difficiles/faciles<br>4. <em>Optimisation Biorythme</em> : Étudiez aux heures de pic de concentration<br><br><strong>Techniques Avancées :</strong><br>• <em>Time Blocking</em> : Blocs de 90min avec pauses<br>• <em>Buffer Time</em> : Réservez 20% du temps pour imprévus"
+    },
+    {
+      "question": "technique pomodoro",
+      "keywords": ["pomodoro", "tomate", "temps", "concentration", "intervalles"],
+      "category": "planning",
+      "answer": "<h3>⏰ Technique Pomodoro Avancée</h3><br><strong>Cycle standard :</strong><br>• 25 minutes de travail concentré<br>• 5 minutes de pause courte<br>• Après 4 cycles → pause de 15-30 minutes<br><br><strong>Variantes adaptatives :</strong><br>• <em>Pomodoro 52/17</em> : 52min travail / 17min pause<br>• <em>Pomodoro 90/20</em> : 90min travail / 20min pause (pour tâches complexes)<br>• <em>Pomodoro flexible</em> : Ajustez selon votre concentration<br><br><strong>Applications recommandées :</strong><br>• Forest (gamification)<br>• Focus Keeper (simple)<br>• Tomato Timer (web)"
+    },
+    {
+      "question": "gestion du temps",
+      "keywords": ["gestion temps", "productivité", "efficacité", "organisation", "deadline"],
+      "category": "planning",
+      "answer": "<h3>⚡ Gestion du Temps Évoluée</h3><br><strong>Méthodes éprouvées :</strong><br>• <em>Matrice Eisenhower</em> : Urgent/Important<br>• <em>Méthode GTD</em> : Getting Things Done<br>• <em>Time Boxing</em> : Blocs de temps dédiés<br>• <em>Règle des 2 minutes</em> : Faites immédiatement les petites tâches<br><br><strong>Stratégies anti-procrastination :</strong><br>• Commencez par la tâche la plus difficile (Mangez le crapaud)<br>• Technique des 5 minutes (engagez-vous pour 5min seulement)<br>• Récompenses progressives"
+    },
+    {
+      "question": "techniques de mémorisation",
+      "keywords": ["mémoriser", "souvenir", "retenir", "mémoire", "apprendre par coeur"],
+      "category": "memoire",
+      "answer": "<h3>🧠 Techniques de Mémorisation Scientifiques</h3><br><strong>Méthodes basées sur les preuves :</strong><br>• <em>Répétition espacée</em> : Réviser à intervalles croissants<br>• <em>Récupération active</em> : Se tester sans support<br>• <em>Elaboration</em> : Créer des connexions personnelles<br>• <em>Imagerie mentale</em> : Visualiser les concepts<br><br><strong>Applications pratiques :</strong><br>• Anki (répétition espacée)<br>• Quizlet (cartes mémo)<br>• Méthode des loci (palais mental)"
+    },
+    {
+      "question": "méthode des loci",
+      "keywords": ["palais mental", "mémoire spatiale", "loci", "lieux", "mémoire ancienne"],
+      "category": "memoire",
+      "answer": "<h3>🏰 Méthode des Loci (Palais Mental)</h3><br><strong>Étapes de construction :</strong><br>1. <em>Choisir un lieu familier</em> : Votre maison, parcours quotidien<br>2. <em>Définir un chemin</em> : Parcours logique dans l'espace<br>3. <em>Placer les éléments</em> : Associer chaque information à un point<br>4. <em>Exagérer les images</em> : Rendre mémorable par l'absurde<br><br><strong>Applications :</strong><br>• Listes ordonnées (processus, étapes)<br>• Discours et présentations<br>• Préparation d'examens<br><br><strong>Exemple :</strong> Pour mémoriser une liste de courses, associez chaque produit à une pièce de votre maison"
+    },
+    {
+      "question": "répétition espacée",
+      "keywords": ["espacée", "intervalles", "révision", "anki", "flashcards"],
+      "category": "memoire",
+      "answer": "<h3>🔄 Répétition Espacée Optimale</h3><br><strong>Intervalles recommandés (Algorithme SM-2) :</strong><br>• Jour 1 : Première révision<br>• Jour 3 : Deuxième révision<br>• Jour 7 : Troisième révision<br>• Jour 14 : Quatrième révision<br>• Jour 30 : Cinquième révision<br><br><strong>Avantages scientifiques :</strong><br>✅ Combat la courbe de l'oubli d'Ebbinghaus<br>✅ Optimise le temps d'étude<br>✅ Renforce la mémoire à long terme<br><br><strong>Outils :</strong> Anki, Memrise, SuperMemo"
+    },
+    {
+      "question": "améliorer la concentration",
+      "keywords": ["concentration", "focus", "attention", "distraction", "concentrer"],
+      "category": "concentration",
+      "answer": "<h3>🎯 Amélioration de la Concentration</h3><br><strong>Techniques immédiates :</strong><br>• <em>Environnement contrôlé</em> : Bureau rangé, bruit blanc<br>• <em>Digital Detox</em> : Mode avion, bloqueurs de sites<br>• <em>Méditation focus</em> : 5 minutes avant d'étudier<br><br><strong>Stratégies à long terme :</strong><br>• Entraînement cérébral (dual n-back)<br>• Amélioration du sommeil<br>• Nutrition cérébrale (oméga-3, noix)<br><br><strong>Exercice rapide :</strong> Technique 5-4-3-2-1 (5 choses vues, 4 entendues, 3 touchées, 2 senties, 1 goûtée)"
+    },
+    {
+      "question": "environnement d'étude optimal",
+      "keywords": ["environnement", "bureau", "espace", "lieu", "conditions"],
+      "category": "concentration",
+      "answer": "<h3>🌿 Environnement d'Étude Idéal</h3><br><strong>Facteurs clés :</strong><br>• <em>Lumière</em> : Naturelle + éclairage LED 4000K<br>• <em>Température</em> : 20-22°C optimale<br>• <em>Bruit</em> : 50-60 dB (bruit blanc recommandé)<br>• <em>Ergonomie</em> : Chaise réglable, écran à hauteur des yeux<br><br><strong>Éléments psychologiques :</strong><br>• Plantes vertes (améliorent l'air et l'humeur)<br>• Couleurs apaisantes (bleu, vert)<br>• Objets personnels inspirants<br><br><strong>À éviter :</strong> Lit, canapé, cuisine (associations non-productives)"
+    },
+    {
+      "question": "gestion du stress examens",
+      "keywords": ["stress", "anxiété", "panique", "calme", "détente", "examen"],
+      "category": "stress",
+      "answer": "<h3>😌 Gestion du Stress des Examens</h3><br><strong>Techniques de relaxation :</strong><br>• <em>Respiration 4-7-8</em> : Inspirez 4s, retenez 7s, expirez 8s<br>• <em>Relaxation musculaire progressive</em> : Contracter/détendre groupes musculaires<br>• <em>Visualisation positive</em> : Imaginez votre réussite<br><br><strong>Préparation mentale :</strong><br>• Répétition mentale des conditions d'examen<br>• Développement de routines pré-examen<br>• Gestion des attentes réalistes<br><br><strong>Conseils nutrition :</strong> Bananes (magnésium), Noix (oméga-3), Chocolat noir (antioxydants)"
+    },
+    {
+      "question": "méthodes d'étude efficaces",
+      "keywords": ["étude", "apprentissage", "réussite", "méthode", "efficace"],
+      "category": "methodes",
+      "answer": "<h3>📚 Méthodes d'Étude Basées sur la Science</h3><br><strong>Top 5 des méthodes efficaces :</strong><br>1. <em>Récupération active</em> : Se tester sans notes<br>2. <em>Enseignement</em> : Expliquer à quelqu'un d'autre<br>3. <em>Étude intercalée</em> : Alterner les matières<br>4. <em>Questionnement élaboratif</em> : Poser pourquoi et comment<br>5. <em>Auto-explication</em> : Expliquer les étapes de résolution<br><br><strong>À éviter :</strong><br>❌ Surlignage passif<br>❌ Relecture simple<br>❌ Prise de notes mot à mot"
+    },
+    {
+      "question": "technique feynman",
+      "keywords": ["feynman", "expliquer", "simple", "compréhension", "enseignement"],
+      "category": "methodes",
+      "answer": "<h3>👨‍🏫 Technique Feynman d'Apprentissage</h3><br><strong>Étapes :</strong><br>1. <em>Choisir un concept</em> : Écrivez-le en haut d'une page<br>2. <em>Expliquer simplement</em> : Comme à un enfant de 12 ans<br>3. <em>Identifier les lacunes</em> : Points où vous hésitez<br>4. <em>Simplifier et analogiser</em> : Utiliser des métaphores<br><br><strong>Avantages :</strong><br>✅ Teste la compréhension réelle<br>✅ Identifie les faiblesses<br>✅ Renforce les connections neuronales<br><br><strong>Règle d'or :</strong> Si vous ne pouvez pas l'expliquer simplement, vous ne le comprenez pas assez bien"
+    },
+    {
+      "question": "préparation examen oral",
+      "keywords": ["oral", "présentation", "exposé", "parler", "communication"],
+      "category": "examens",
+      "answer": "<h3>🎤 Préparation d'Examen Oral Parfait</h3><br><strong>Stratégies de préparation :</strong><br>• <em>Enregistrement vidéo</em> : Analysez votre langage corporel<br>• <em>Pratique devant miroir</em> : Travaillez le contact visuel<br>• <em>Simulations complètes</em> : Conditions réelles avec amis<br><br><strong>Structure du discours :</strong><br>• Introduction percutante (30s)<br>• 3 points principaux maximum<br>• Conclusion mémorable<br>• Transition fluide entre parties<br><br><strong>Gestion du trac :</strong> Respiration ventrale, posture confiante, sourire authentique"
+    },
+    {
+      "question": "révision efficace",
+      "keywords": ["révision", "examen", "préparation", "test", "contrôle"],
+      "category": "examens",
+      "answer": "<h3>📖 Plan de Révision Scientifique</h3><br><strong>Calendrier optimal :</strong><br>• <em>4 semaines avant</em> : Revue complète du programme<br>• <em>2 semaines avant</em> : Focus sur les difficultés<br>• <em>1 semaine avant</em> : Révisions intensives + tests<br>• <em>J-1</em> : Révision légère uniquement<br><br><strong>Techniques de révision :</strong><br>• Fiches de révision actives<br>• Tests pratiques chronométrés<br>• Groupes d'étude explicateurs<br><br><strong>Erreur à éviter :</strong> Cramming (étude intensive dernière minute)"
+    },
+    {
+      "question": "fiches de révision",
+      "keywords": ["fiches", "cartes", "résumé", "synthèse", "flashcards"],
+      "category": "methodes",
+      "answer": "<h3>📇 Création de Fiches de Révision Optimales</h3><br><strong>Règles d'or :</strong><br>• <em>Une idée par fiche</em> : Pas de surcharge cognitive<br>• <em>Question/Réponse</em> : Format actif plutôt que passif<br>• <em>Visuel</em> : Schémas, couleurs, symboles<br>• <em>Personnel</em> : Vos propres mots et exemples<br><br><strong>Formats efficaces :</strong><br>• Format Cornell adapté<br>• Cartes mémo numériques (Anki)<br>• Mind maps miniatures<br><br><strong>Utilisation :</strong> Révision espacée + récupération active"
+    },
+    {
+      "question": "motivation étude",
+      "keywords": ["motivation", "démotivé", "envie", "procrastination", "paresse"],
+      "category": "motivation",
+      "answer": "<h3>🚀 Boost de Motivation Évolué</h3><br><strong>Stratégies psychologiques :</strong><br>• <em>Décomposition</em> : Objectifs en micro-tâches de 25min<br>• <em>Commencement de 2 minutes</em> : Engagez-vous seulement pour 2min<br>• <em>Visualisation du résultat</em> : Imaginez la fierté d'avoir terminé<br><br><strong>Renforcement positif :</strong><br>• Récompenses progressives (Pomodoro)<br>• Tracking des progrès (graphiques visuels)<br>• Partenaires de responsabilité<br><br><strong>Rappel du 'Pourquoi' :</strong> Listez vos raisons profondes d'étudier"
+    },
+    {
+      "question": "lutte contre la procrastination",
+      "keywords": ["procrastination", "remettre", "retarder", "éviter", "paresse"],
+      "category": "motivation",
+      "answer": "<h3>⏰ Vaincre la Procrastination Définitivement</h3><br><strong>Causes profondes :</strong><br>• Peur de l'échec ou du jugement<br>• Tâche perçue comme trop difficile<br>• Manque de clarté dans les étapes<br>• Recherche de perfection<br><br><strong>Solutions pratiques :</strong><br>• Technique des 5 minutes (commencez seulement 5min)<br>• Mangez le crapaud (tâche difficile en premier)<br>• Éliminez les distractions numériques<br>• Créez un engagement public<br><br><strong>Mindset :</strong> Progress, not perfection"
+    },
+    {
+      "question": "organisation matières",
+      "keywords": ["organisation", "matières", "sujets", "classer", "tri"],
+      "category": "organisation",
+      "answer": "<h3>📂 Organisation Optimale des Matières</h3><br><strong>Système de classement :</strong><br>• <em>Code couleur</em> : Une couleur par matière<br>• <em>Structure hiérarchique</em> : Matière → Chapitre → Sous-thème<br>• <em>Séparation claire</em> : Cours / TD / Exercices / Corrections<br><br><strong>Outils numériques :</strong><br>• Notion (base de données relationnelle)<br>• Evernote (recherche puissante)<br>• Google Drive (collaboration)<br><br><strong>Règle :</strong> One place for everything"
+    },
+    {
+      "question": "lecture efficace",
+      "keywords": ["lecture", "lire", "compréhension", "vitesse", "livre"],
+      "category": "methodes",
+      "answer": "<h3>📖 Lecture Active et Efficace</h3><br><strong>Méthode SQ3R :</strong><br>• <em>Survey</em> : Parcourir le texte rapidement<br>• <em>Question</em> : Formuler des questions<br>• <em>Read</em> : Lecture active<br>• <em>Recite</em> : Réciter sans regarder<br>• <em>Review</em> : Révision espacée<br><br><strong>Amélioration vitesse :</strong><br>• Réduction de la subvocalisation<br>• Utilisation de guide visuel<br>• Lecture par groupes de mots<br><br><strong>Compréhension :</strong> Posez-vous des questions pendant la lecture"
+    },
+    {
+      "question": "prise de parole",
+      "keywords": ["parler", "expression", "communication", "discours", "présentation"],
+      "category": "competences",
+      "answer": "<h3>🎤 Maîtrise de la Prise de Parole</h3><br><strong>Techniques d'éloquence :</strong><br>• <em>Structure PREP</em> : Point, Reason, Example, Point<br>• <em>Silences stratégiques</em> : Marquer les points importants<br>• <em>Variation vocale</em> : Volume, débit, ton<br><br><strong>Langage corporel :</strong><br>• Posture ouverte et stable<br>• Gestes naturels et contrôlés<br>• Contact visuel triangulaire<br><br><strong>Préparation :</strong> 1h de préparation pour 5min de parole"
+    },
+    {
+      "question": "gestion échec",
+      "keywords": ["échec", "raté", "échouer", "redoubler", "difficulté"],
+      "category": "psychologie",
+      "answer": "<h3>💪 Transformation de l'Échec en Opportunité</h3><br><strong>Mindset de croissance :</strong><br>• L'échec est une donnée, pas une identité<br>• Chaque échec contient des informations précieuses<br>• Les compétences se développent avec l'effort<br><br><strong>Analyse constructive :</strong><br>• Qu'est-ce qui n'a pas fonctionné exactement ?<br>• Qu'aurais-je pu faire différemment ?<br>• Quelles compétences dois-je développer ?<br><br><strong>Plan de rebond :</strong> Objectifs SMART révisés + stratégies nouvelles"
+    },
+    {
+      "question": "sommeil et étude",
+      "keywords": ["sommeil", "dormir", "repos", "nuit", "fatigue"],
+      "category": "sante",
+      "answer": "<h3>😴 Optimisation Sommeil pour l'Étude</h3><br><strong>Science du sommeil :</strong><br>• 7-9h de sommeil nécessaires pour la consolidation mémoire<br>• Sommeil profond : Réorganisation des connexions neuronales<br>• Sommeil paradoxal : Intégration créative<br><br><strong>Conseils pratiques :</strong><br>• Réviser juste avant de dormir (mémoire prospective)<br>• Éviter les écrans 1h avant le coucher<br>• Routine de sommeil régulière<br><br><strong>Sieste stratégique :</strong> 20min (récupération) ou 90min (cycle complet)"
+    },
+    {
+      "question": "alimentation cerveau",
+      "keywords": ["alimentation", "nourriture", "cerveau", "nutrition", "diète"],
+      "category": "sante",
+      "answer": "<h3>🍎 Nutrition Cognitive Optimale</h3><br><strong>Aliments boosters :</strong><br>• <em>Poissons gras</em> : Saumon, maquereau (oméga-3)<br>• <em>Noix et graines</em> : Noix, amandes, graines de lin<br>• <em>Baies</em> : Myrtilles, framboises (antioxydants)<br>• <em>Œufs</em> : Choline pour la mémoire<br><br><strong>À éviter :</strong><br>❌ Sucres rapides (énergie volatile)<br>❌ Aliments ultra-transformés<br>❌ Excès de caféine<br><br><strong>Hydratation :</strong> 2L d'eau par jour minimum"
+    },
+    {
+      "question": "mémoire photographique",
+      "keywords": ["photographique", "eidétique", "visuelle", "image", "photographier"],
+      "category": "memoire",
+      "answer": "<h3>🖼️ Développement de la Mémoire Visuelle</h3><br><strong>Exercices d'entraînement :</strong><br>• <em>Observation active</em> : Regarder 30s, puis décrire de mémoire<br>• <em>Palais mental visuel</em> : Associer informations à des images vives<br>• <em>Cartes mémoire visuelles</em> : Créer des associations image-concept<br><br><strong>Applications :</strong><br>• Art of Memory (entraînement)<br>• Memory Sports (compétition)<br>• Méthode des liens (chaînage)<br><br><strong>Réalité :</strong> La mémoire 'photographique' parfaite est extrêmement rare, mais la mémoire visuelle peut être considérablement améliorée"
+    },
+    {
+      "question": "étude de groupe",
+      "keywords": ["groupe", "collaboration", "équipe", "partenaires", "collectif"],
+      "category": "methodes",
+      "answer": "<h3>👥 Étude de Groupe Efficace</h3><br><strong>Conditions de succès :</strong><br>• Groupe de 3-4 personnes maximum<br>• Objectifs clairs définis à l'avance<br>• Participants préparés individuellement<br>• Rôles tournants (animateur, secrétaire, etc.)<br><br><strong>Activités productives :</strong><br>• Explication mutuelle des concepts<br>• Résolution collaborative de problèmes<br>• Tests croisés<br>• Débats sur les points difficiles<br><br><strong>À éviter :</strong> Sessions sociales, participants non-préparés"
+    },
+    {
+      "question": "prise de décision étude",
+      "keywords": ["décision", "choix", "priorité", "option", "dilemme"],
+      "category": "organisation",
+      "answer": "<h3>🎯 Prise de Décision Éclairée</h3><br><strong>Matrice décisionnelle :</strong><br>• Liste des options possibles<br>• Critères de jugement pondérés<br>• Notation objective de chaque option<br>• Calcul du score total<br><br><strong>Outils :</strong><br>• Liste pros/cons évoluée<br>• Analyse coût-bénéfice temporel<br>• Projection à 10-10-10 (impact dans 10min, 10mois, 10ans)<br><br><strong>Pièges à éviter :</strong> Paralysie analyse, biais de confirmation, effet de halo"
+    },
+    {
+      "question": "créativité étude",
+      "keywords": ["créativité", "innovation", "originalité", "imagination", "invention"],
+      "category": "competences",
+      "answer": "<h3>💡 Développement de la Créativité Académique</h3><br><strong>Techniques de pensée créative :</strong><br>• <em>Brainstorming inversé</em> : Comment créer le problème ?<br>• <em>Métaphores forcées</em> : Associer concepts éloignés<br>• <em>SCAMPER</em> : Substituer, Combiner, Adapter, etc.<br><br><strong>Environnement créatif :</strong><br>• Exposition à des domaines variés<br>• Temps d'incubation (pause créative)<br>• Carnet d'idées permanent<br><br><strong>Mindset :</strong> Quantité avant qualité dans les idées initiales"
+    },
+    {
+      "question": "veille scientifique",
+      "keywords": ["veille", "actualité", "recherche", "science", "découverte"],
+      "category": "competences",
+      "answer": "<h3>🔬 Mise en Place d'une Veille Scientifique</h3><br><strong>Sources fiables :</strong><br>• Google Scholar alertes<br>• PubMed pour les sciences médicales<br>• arXiv pour les prépublications<br>• Revues académiques de votre domaine<br><br><strong>Organisation :</strong><br>• Zotero pour la gestion bibliographique<br>• Feedly pour le suivi des blogs<br>• Tableaux de bord personnalisés<br><br><strong>Fréquence :</strong> 30min par semaine de veille structurée"
+    },
+    {
+      "question": "recherche documentaire",
+      "keywords": ["recherche", "documents", "sources", "bibliographie", "références"],
+      "category": "competences",
+      "answer": "<h3>📚 Méthodologie de Recherche Documentaire</h3><br><strong>Processus systématique :</strong><br>1. <em>Définition du besoin</em> : Question de recherche précise<br>2. <em>Stratégie de recherche</em> : Mots-clés, opérateurs booléens<br>3. <em>Évaluation des sources</em> : Critères de fiabilité<br>4. <em>Organisation</em> : Classement thématique<br><br><strong>Outils :</strong><br>• Mendeley/Zotero (gestion références)<br>• Google Scholar/PubMed<br>• Bases de données académiques<br><br><strong>Évaluation source :</strong> Auteur, date, éditeur, objectivité, preuves"
+    },
+    {
+      "question": "rédaction académique",
+      "keywords": ["rédaction", "écriture", "mémoire", "thèse", "rapport"],
+      "category": "competences",
+      "answer": "<h3>✍️ Rédaction Académique de Qualité</h3><br><strong>Structure type :</strong><br>• Introduction (contexte, problème, objectif)<br>• Développement (arguments organisés)<br>• Conclusion (synthèse, perspectives)<br><br><strong>Style académique :</strong><br>• Précision et concision<br>• Objectivité et neutralité<br>• Citations appropriées<br>• Vocabulaire technique maîtrisé<br><br><strong>Processus :</strong> Plan détaillé → Premier jet → Révisions multiples → Correction finale"
+    },
+    {
+      "question": "présentation power point",
+      "keywords": ["powerpoint", "présentation", "diapositive", "slide", "support"],
+      "category": "competences",
+      "answer": "<h3>📊 Création de Présentations PerCutantes</h3><br><strong>Règles de design :</strong><br>• <em>5/5/5</em> : 5 mots par ligne, 5 lignes par slide, 5 slides texte dense<br>• <em>High contrast</em> : Texte lisible sur fond contrasté<br>• <em>Visuals over text</em> : Images, graphiques, schémas<br><br><strong>Structure narrative :</strong><br>• Slide titre percutant<br>• Problème → Solution → Preuves<br>• Conclusion mémorable + appel à l'action<br><br><strong>Outils :</strong> Canva (design), Prezi (non-linéaire), Google Slides (collaboration)"
+    },
+    {
+      "question": "gestion projet étude",
+      "keywords": ["projet", "gestion", "planification", "échéance", "livrable"],
+      "category": "organisation",
+      "answer": "<h3>📋 Méthodologie de Gestion de Projet Étudiant</h3><br><strong>Cycle de vie :</strong><br>• Initiation (définition objectifs)<br>• Planification (découpage tâches)<br>• Exécution (travail régulier)<br>• Clôture (évaluation résultats)<br><br><strong>Outils visuels :</strong><br>• Diagramme de Gantt (planification temporelle)<br>• Tableau Kanban (suivi des tâches)<br>• Mind mapping (structuration idées)<br><br><strong>Méthode :</strong> Découpez en packages de travail de 2-4h maximum"
+    },
+    {
+      "question": "équilibre vie étude",
+      "keywords": ["équilibre", "vie", "personnel", "social", "loisirs"],
+      "category": "sante",
+      "answer": "<h3>⚖️ Équilibre Vie-Étude Optimal</h3><br><strong>Répartition temporelle idéale :</strong><br>• 50% Étude structurée<br>• 25% Vie sociale et loisirs<br>• 15% Sommeil et soins personnels<br>• 10% Imprévus et flexibilité<br><br><strong>Activités rechargeantes :</strong><br>• Sport régulier (30min/jour)<br>• Passe-temps créatifs<br>• Socialisation qualitative<br>• Temps dans la nature<br><br><strong>Signes de déséquilibre :</strong> Fatigue chronique, irritabilité, baisse de performance"
+    },
+    {
+      "question": "méthodes de relaxation",
+      "keywords": ["relaxation", "détente", "calme", "méditation", "respiration"],
+      "category": "sante",
+      "answer": "<h3>🧘 Techniques de Relaxation Rapides</h3><br><strong>Méthodes express (5min) :</strong><br>• <em>Respiration carrée</em> : Inspirer 4s, retenir 4s, expirer 4s, pause 4s<br>• <em>Scan corporel</em> : Attention successive aux parties du corps<br>• <em>Visualisation guidée</em> : Lieu de calme mental<br><br><strong>Pratiques régulières :</strong><br>• Méditation pleine conscience (10min/jour)<br>• Yoga ou tai-chi<br>• Journaling thérapeutique<br><br><strong>Applications :</strong> Petit Bambou, Calm, Headspace"
+    },
+    {
+      "question": "développement compétences",
+      "keywords": ["compétences", "skills", "développement", "amélioration", "expertise"],
+      "category": "competences",
+      "answer": "<h3>🚀 Développement Accéléré des Compétences</h3><br><strong>Méthode délibérée :</strong><br>1. <em>Décomposition</em> : Analyser la compétence en sous-compétences<br>2. <em>Pratique focalisée</em> : Travailler spécifiquement les points faibles<br>3. <em>Feedback immédiat</em> : Correction en temps réel<br>4. <em>Sortie zone confort</em> : Difficulté progressivement croissante<br><br><strong>Règle des 20 heures :</strong> 20h de pratique focalisée pour maîtriser les bases d'une compétence<br><br><strong>Outils :</strong> Carnet de progression, enregistrements vidéo/audio, mentors"
+    },
+    {
+      "question": "gestion énergie",
+      "keywords": ["énergie", "fatigue", "vitalité", "endurance", "forme"],
+      "category": "sante",
+      "answer": "<h3>⚡ Optimisation de l'Énergie Mentale</h3><br><strong>Rythmes ultradiens :</strong><br>• Cycles de 90-120min d'énergie<br>• Pauses obligatoires entre les cycles<br>• Respect des signaux de fatigue<br><br><strong>Recharge énergétique :</strong><br>• Micro-pauses actives (marche, étirements)<br>• Hydratation régulière<br>• Alimentation énergisante (fruits secs, noix)<br>• Respiration consciente<br><br><strong>Planning énergétique :</strong> Tâches difficiles aux pics d'énergie, tâches simples aux creux"
+    },
+    {
+      "question": "apprentissage langues",
+      "keywords": ["langues", "bilingue", "vocabulaire", "grammaire", "conversation"],
+      "category": "competences",
+      "answer": "<h3>🌍 Méthodes d'Apprentissage des Langues</h3><br><strong>Approche équilibrée :</strong><br>• <em>Compréhension</em> : Input compréhensible (vidéos, podcasts)<br>• <em>Expression</em> : Pratique orale régulière<br>• <em>Vocabulaire</em> : Cartes mémoire espacées<br>• <em>Grammaire</em> : En contexte, pas isolément<br><br><strong>Immersion efficace :</strong><br>• Changez langue de vos appareils<br>• Partenaires de conversation en ligne<br>• Contenu divertissant dans la langue cible<br><br><strong>Outils :</strong> Duolingo (début), Anki (vocabulaire), iTalki (conversation)"
+    },
+    {
+      "question": "résolution problèmes complexes",
+      "keywords": ["problème", "complexe", "solution", "analyse", "résoudre"],
+      "category": "competences",
+      "answer": "<h3>🔍 Méthodologie de Résolution de Problèmes Complexes</h3><br><strong>Processus systématique :</strong><br>1. <em>Définition précise</em> : Reformuler le problème dans vos mots<br>2. <em>Analyse racine</em> : Méthode des 5 pourquoi<br>3. <em>Génération solutions</em> : Brainstorming sans jugement<br>4. <em>Évaluation</em> : Critères objectifs<br>5. <em>Implémentation</em> : Plan d'action détaillé<br><br><strong>Outils :</strong> Diagramme causes-effets, matrice décisionnelle, prototypage rapide"
+    },
+    {
+      "question": "mémorisation chiffres",
+      "keywords": ["chiffres", "nombres", "numériques", "calcul", "statistiques"],
+      "category": "memoire",
+      "answer": "<h3>🔢 Techniques de Mémorisation des Chiffres</h3><br><strong>Système majeur :</strong><br>• Association chiffres → consonnes → mots<br>• 0 = s/z, 1 = t/d, 2 = n, 3 = m, 4 = r, 5 = l, 6 = j/ch, 7 = k/g, 8 = f/v, 9 = p/b<br>• Exemple : 14 = tr (toit), 92 = pn (piano)<br><br><strong>Applications :</strong><br>• Dates historiques<br>• Statistiques importantes<br>• Numéros de téléphone<br>• Codes et formules<br><br><strong>Entraînement :</strong> Commencez avec des nombres à 2 chiffres, puis augmentez progressivement"
+    },
+    {
+      "question": "gestion distractions",
+      "keywords": ["distractions", "concentration", "focus", "interruptions", "attention"],
+      "category": "concentration",
+      "answer": "<h3>🎯 Maîtrise des Distractions Numériques</h3><br><strong>Stratégies technologiques :</strong><br>• <em>Bloqueurs</em> : Freedom, Cold Turkey, StayFocusd<br>• <em>Mode concentration</em> : iPhone Focus, Digital Wellbeing Android<br>• <em>Environnement</em> : Bureau séparé, casque antibruit<br><br><strong>Habitudes :</strong><br>• Check emails/sms à heures fixes<br>• Notifications désactivées<br>• Session unique (une tâche à la fois)<br><br><strong>Règle :</strong> Si ça prend moins de 2 minutes, faites-le immédiatement. Sinon, planifiez-le."
+    },
+    {
+      "question": "préparation concours",
+      "keywords": ["concours", "compétition", "examen", "sélection", "classement"],
+      "category": "examens",
+      "answer": "<h3>🏆 Stratégie de Préparation aux Concours</h3><br><strong>Analyse du concours :</strong><br>• Étude détaillée des annales<br>• Compréhension des attentes du jury<br>• Analyse des coefficients et barèmes<br><br><strong>Préparation spécifique :</strong><br>• Simulations en conditions réelles<br>• Travail sur les points faibles identifiés<br>• Développement de rapidité et précision<br><br><strong>Mental compétiteur :</strong> Visualisation de la réussite, gestion du stress positif"
+    },
+    {
+      "question": "méthodes de synthèse",
+      "keywords": ["synthèse", "résumé", "condenser", "essentiel", "extraction"],
+      "category": "methodes",
+      "answer": "<h3>📄 Techniques de Synthèse Efficaces</h3><br><strong>Processus de synthèse :</strong><br>1. <em>Lecture globale</em> : Compréhension d'ensemble<br>2. <em>Extraction idées</em> : Surlignage stratégique<br>3. <em>Reformulation</em> : Vos propres mots<br>4. <em>Organisation</em> : Structure logique<br>5. <em>Réduction</em> : Élimination du superflu<br><br><strong>Formats :</strong> Tableaux comparatifs, fiches Cornell, cartes mentales, enregistrements audio<br><br><strong>Règle :</strong> 10% du volume original maximum"
+    },
+    {
+      "question": "apprentissage actif",
+      "keywords": ["actif", "engagement", "participation", "interaction", "manipulation"],
+      "category": "methodes",
+      "answer": "<h3>🎯 Transformation Passive → Actif</h3><br><strong>Techniques d'activation :</strong><br>• <em>Questionnement</em> : Posez-vous des questions avant d'étudier<br>• <em>Prédiction</em> : Devinez ce qui va suivre<br>• <em>Auto-explication</em> : Expliquez-vous les concepts<br>• <em>Application</em> : Utilisez immédiatement les connaissances<br><br><strong>Niveaux d'engagement :</strong><br>• Passif : Écouter/lire seulement<br>• Actif : Prendre des notes, surligner<br>• Créatif : Reformuler, enseigner, appliquer<br><br><strong>Impact :</strong> L'apprentissage actif améliore la rétention de 50-70%"
+    },
+    {
+      "question": "gestion multitâche",
+      "keywords": ["multitâche", "multitasking", "simultané", "parallèle", "tâches multiples"],
+      "category": "concentration",
+      "answer": "<h3>🔄 Vérité sur le Multitâche</h3><br><strong>Mythes et réalités :</strong><br>❌ Le multitâche n'existe pas : le cerveau alterne rapidement<br>❌ Réduction performance : -40% d'efficacité en moyenne<br>❌ Augmentation erreurs : +50% de risques d'erreur<br><br><strong>Alternatives :</strong><br>• <em>Monotâche</em> : Une tâche à la fois avec focus total<br>• <em>Tâches batch</em> : Regrouper les tâches similaires<br>• <em>Transition consciente</em> : Pause entre les changements de tâches<br><br><strong>Exception :</strong> Tâches automatisées + tâches cognitives simples"
+    },
+    {
+      "question": "optimisation révisions",
+      "keywords": ["optimisation", "efficacité", "performance", "rendement", "maximisation"],
+      "category": "methodes",
+      "answer": "<h3>📈 Optimisation Scientifique des Révisions</h3><br><strong>Principes d'optimisation :</strong><br>• <em>Courbe de l'oubli</em> : Réviser juste avant d'oublier<br>• <em>Effet de testing</em> : Se tester améliore plus que réviser<br>• <em>Variabilité pratique</em> : Changer de contexte d'étude<br>• <em>Intercalation</em> : Mélanger différents sujets<br><br><strong>Planification optimale :</strong><br>• J+1 : Première révision (24h après)<br>• J+3 : Deuxième révision<br>• J+7 : Troisième révision<br>• J+14 : Quatrième révision<br>• J+30 : Cinquième révision"
+    },
+    {
+      "question": "stratégie examen",
+      "keywords": ["stratégie", "tactique", "plan", "approche", "méthodologie"],
+      "category": "examens",
+      "answer": "<h3>🎯 Stratégies Gagnantes d'Examen</h3><br><strong>Avant l'examen :</strong><br>• Lecture complète du sujet (5-10min)<br>• Planification du temps par question<br>• Choisi des questions par ordre de confiance<br><br><strong>Pendant l'examen :</strong><br>• Structurez vos réponses (introduction, développement, conclusion)<br>• Gérez votre temps rigoureusement<br>• Relisez systématiquement<br><br><strong>Gestion stress :</strong> Respiration carrée, posture confiante, focus sur le présent"
+    },
+    {
+      "question": "développement curiosité",
+      "keywords": ["curiosité", "intérêt", "questionnement", "découverte", "exploration"],
+      "category": "psychologie",
+      "answer": "<h3>🔍 Cultiver la Curiosité Intellectuelle</h3><br><strong>Exercices quotidiens :</strong><br>• <em>Question du jour</em> : Posez une question sur quelque chose d'ordinaire<br>• <em>Lecture transversale</em> : Lisez sur des sujets hors de votre domaine<br>• <em>Conversations curieuses</em> : Posez des questions ouvertes aux experts<br><br><strong>Mindset curieux :</strong><br>• Remplacez 'je sais' par 'je découvre'<br>• Cherchez les patterns et connections<br>• Embrassez l'inconnu et l'incertitude<br><br><strong>Bénéfices :</strong> Meilleure rétention, créativité accrue, apprentissage plus rapide"
+    },
+    {
+      "question": "gestion échec examen",
+      "keywords": ["échec", "examen", "raté", "redoublement", "deception"],
+      "category": "psychologie",
+      "answer": "<h3>💪 Rebondir après un Échec à un Examen</h3><br><strong>Processus de résilience :</strong><br>1. <em>Acceptation émotionnelle</em> : Permettez-vous de ressentir la déception<br>2. <em>Analyse objective</em> : Quelles sont les causes précises ?<br>3. <em>Apprentissage</em> : Quelles leçons en tirer ?<br>4. <em>Plan d'action</em> : Stratégies concrètes pour la prochaine fois<br><br><strong>Support :</strong><br>• Parlez-en à des professeurs<br>• Échangez avec des pairs<br>• Consultez si besoin un conseiller d'orientation<br><br><strong>Rappel :</strong> Un échec est un événement, pas une identité"
+    }
+  ]
+}

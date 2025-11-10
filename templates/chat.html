@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat IA - StudyBuddy Pro</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/chat.css') }}">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="chat-layout">
+        <!-- Sidebar -->
+        <aside class="chat-sidebar">
+            <div class="sidebar-header">
+                <a href="/" class="back-home">
+                    <i class="fas fa-arrow-left"></i>
+                    Accueil
+                </a>
+                <div class="sidebar-brand">
+                    <i class="fas fa-graduation-cap"></i>
+                    <span>StudyBuddy<span class="pro-badge">PRO</span></span>
+                </div>
+            </div>
+
+            <div class="sidebar-content">
+                <div class="user-profile">
+                    <div class="profile-avatar">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <div class="profile-info">
+                        <div class="profile-name">Étudiant</div>
+                        <div class="profile-status">En session d'étude</div>
+                    </div>
+                </div>
+
+                <div class="quick-actions">
+                    <h3>Actions Rapides</h3>
+                    <button class="action-btn" data-action="notes">
+                        <i class="fas fa-edit"></i>
+                        Prendre des Notes
+                    </button>
+                    <button class="action-btn" data-action="planning">
+                        <i class="fas fa-calendar"></i>
+                        Créer un Planning
+                    </button>
+                    <button class="action-btn" data-action="revision">
+                        <i class="fas fa-book"></i>
+                        Planifier les Révisions
+                    </button>
+                    <button class="action-btn" data-action="stress">
+                        <i class="fas fa-heart"></i>
+                        Gérer le Stress
+                    </button>
+                    <button class="action-btn" data-action="memoire">
+                        <i class="fas fa-brain"></i>
+                        Améliorer la Mémoire
+                    </button>
+                </div>
+
+                <div class="conversation-tips">
+                    <h3>💡 Parle-moi naturellement :</h3>
+                    <p>"Je stress pour mon examen"</p>
+                    <p>"Aide-moi à m'organiser"</p>
+                    <p>"Comment retenir mon cours ?"</p>
+                    <p>"J'ai du mal à me concentrer"</p>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="chat-main">
+            <!-- Chat Header -->
+            <header class="chat-header">
+                <div class="header-left">
+                    <div class="ai-status">
+                        <div class="status-indicator online"></div>
+                        <span>StudyBuddy AI • Intelligent • En ligne</span>
+                    </div>
+                </div>
+                <div class="header-right">
+                    <button class="header-btn" id="clearChatBtn">
+                        <i class="fas fa-trash"></i>
+                        Effacer
+                    </button>
+                    <button class="header-btn" id="exportChatBtn">
+                        <i class="fas fa-download"></i>
+                        Exporter
+                    </button>
+                </div>
+            </header>
+
+            <!-- Chat Messages -->
+            <div class="chat-messages" id="chatMessages">
+                <!-- Le message de bienvenue sera ajouté par JavaScript -->
+            </div>
+
+            <!-- Chat Input -->
+            <div class="chat-input-container">
+                <div class="input-wrapper">
+                    <div class="input-actions">
+                        <button class="action-icon" id="emojiBtn1">
+                            <i class="fas fa-smile"></i>
+                        </button>
+                        <button class="action-icon" id="emojiBtn2">
+                            <i class="fas fa-book"></i>
+                        </button>
+                        <button class="action-icon" id="emojiBtn3">
+                            <i class="fas fa-bullseye"></i>
+                        </button>
+                    </div>
+                    <input type="text" 
+                           id="userInput" 
+                           placeholder="Parle-moi de tes études, ton stress, ton organisation..." 
+                           onkeypress="handleKeyPress(event)">
+                    <button class="send-btn" id="sendButton">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+                <div class="input-footer">
+                    <span class="ai-info">
+                        <i class="fas fa-brain"></i>
+                        IA Intelligente • Comprend le langage naturel
+                    </span>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-content">
+            <div class="ai-thinking">
+                <div class="thinking-animation">
+                    <div class="thinking-dot"></div>
+                    <div class="thinking-dot"></div>
+                    <div class="thinking-dot"></div>
+                </div>
+                <span>StudyBuddy analyse ta question...</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/chatbot.js') }}"></script>
+</body>
+</html>
